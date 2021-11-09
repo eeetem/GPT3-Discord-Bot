@@ -1,9 +1,6 @@
 import discord
 import asyncio
-
-import time
-import random, re
-from collections import defaultdict
+import random
 import time
 import openai
 
