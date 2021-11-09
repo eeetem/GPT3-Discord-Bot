@@ -5,7 +5,7 @@
  
  # Instructions
  
- 1. ```pip requirements.txt```
+ 1. ```pip3 install -r requirements.txt```
  2. paste in your GPT-3 key into ApiKey.txt
  3. paste in the key for the discord bot into BotKey.txt
  4. run the script
