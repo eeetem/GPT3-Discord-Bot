@@ -1,7 +1,5 @@
 # GPT3 Discord ChatBot
- Host your own GPT-3 Discord ChatBot
- 
- i'd host and make the bot invitable myself, however GPT3 terms of service prohibit public use of GPT3 without aproval and the tokens used in large quantities will get expensive.
+ A fairly simple script that lets you host a GPT-3 discord bot
  
  # Instructions
  
